@@ -20,17 +20,17 @@ const ProductsPage = () => {
                     <div>
                         <h4>Jenson</h4>
                         <img src={table} alt='table' />
-                        <Link to='/product/jenson'>Shop Now</Link>
+                        <Link to='/router_woodies/product/jenson'>Shop Now</Link>
                     </div>
                     <div>
                         <h4>Deon</h4>
                         <img src={chair} alt='chair' />
-                        <Link to='/product/deon'>Shop Now</Link>
+                        <Link to='/router_woodies/product/deon'>Shop Now</Link>
                     </div>
                     <div>
                         <h4>Krisha</h4>
                         <img src={bowls} alt='bowls' />
-                        <Link to='/product/krisha'>Shop Now</Link>
+                        <Link to='/router_woodies/product/krisha'>Shop Now</Link>
                     </div>
                 </article>
             </section>

@@ -10,12 +10,12 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path='/' element={<HomePage />} />
-				<Route path='/about-us' element={<AboutUsPage />} />
-				<Route path='/products' element={<ProductsPage />} />
-				<Route path='/product/jenson' element={<ProductPage product='jenson' />} />
-				<Route path='/product/deon' element={<ProductPage product='deon' />} />
-				<Route path='/product/krisha' element={<ProductPage product='krisha' />} />
+				<Route path='/router_woodies/' element={<HomePage />} />
+				<Route path='/router_woodies/about-us' element={<AboutUsPage />} />
+				<Route path='/router_woodies/products' element={<ProductsPage />} />
+				<Route path='/router_woodies/product/jenson' element={<ProductPage product='jenson' />} />
+				<Route path='/router_woodies/product/deon' element={<ProductPage product='deon' />} />
+				<Route path='/router_woodies/product/krisha' element={<ProductPage product='krisha' />} />
 			</Routes>
 		</div>
 	);

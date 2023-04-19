@@ -10,7 +10,7 @@ const HomePage = () => {
                 <div className='homeSectionText'>
                     <h3>Are you looking for <span>wooden furniture</span> for your place?</h3>
                     <h2>This is the Right Place</h2>
-                    <Link to='/products'>Explore Products</Link>
+                    <Link to='/router_woodies/products'>Explore Products</Link>
                 </div>
                 <img src={homeImg} alt='coffeetable' />
             </section>
