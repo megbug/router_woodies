@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/router_woodies/static/css/main.e1d18c56.css",
+    "main.js": "/router_woodies/static/js/main.d286989d.js",
+    "static/js/787.ff09cc8c.chunk.js": "/router_woodies/static/js/787.ff09cc8c.chunk.js",
+    "static/media/Home.png": "/router_woodies/static/media/Home.64e63c090d7c0dfc62db.png",
+    "static/media/About.png": "/router_woodies/static/media/About.48ef16f40ee648d37553.png",
+    "static/media/Nunito-Regular.ttf": "/router_woodies/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Footer.png": "/router_woodies/static/media/Footer.cd589cfcf219b58ee40f.png",
+    "static/media/Schuesseln.png": "/router_woodies/static/media/Schuesseln.f8fb5a999661162b65c5.png",
+    "static/media/Stuhl.png": "/router_woodies/static/media/Stuhl.f1b59455ba346b8f39cd.png",
+    "static/media/Tisch.png": "/router_woodies/static/media/Tisch.0598a9846a7a5b4211bf.png",
+    "static/media/Group 28.svg": "/router_woodies/static/media/Group 28.2e84a22def50a1c9a47fca915dadd4aa.svg",
+    "index.html": "/router_woodies/index.html",
+    "main.e1d18c56.css.map": "/router_woodies/static/css/main.e1d18c56.css.map",
+    "main.d286989d.js.map": "/router_woodies/static/js/main.d286989d.js.map",
+    "787.ff09cc8c.chunk.js.map": "/router_woodies/static/js/787.ff09cc8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d18c56.css",
+    "static/js/main.d286989d.js"
+  ]
+}
